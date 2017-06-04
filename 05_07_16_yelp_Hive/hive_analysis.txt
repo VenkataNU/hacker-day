@@ -1,0 +1,3 @@
+sudo service hive-server2 status will give the status of the hive server2
+/usr/lib/hive/bin/beeline will open the beeline
+
